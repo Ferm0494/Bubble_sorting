@@ -1,10 +1,6 @@
-# Project Name
+# Bubble Sort
 
-> Bubble Sort
-
-
-
-Sort made with yield(bubble_sort_by) and without yield(bubble_sort) .
+>Sort made with yield(bubble_sort_by) and without yield(bubble_sort) .
 
 ## Built With
 
