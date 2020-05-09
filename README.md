@@ -1,6 +1,6 @@
 # Bubble Sort
 
->Sort made with yield(bubble_sort_by) and without yield(bubble_sort) .
+>Bubble Sort made with yield(bubble_sort_by) and without yield(bubble_sort) .
 
 ## Built With
 
