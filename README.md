@@ -8,8 +8,10 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**If you are using with yield make sure if you are using Strings to put  left.length - right.length**
+**In order to start you can use `bubble_sort` or `burble_sort_by`**
+**If you are using bubble_sort run `bubble_sort(array)`**
+**If you are using bubble_sort_by make sure you pass a block `bubble_sort_by(array){|left,right| left-right }`**
+**If you are using with yield make sure if you are using Strings to put  `left.length - right.length`**
 
 
 ## Authors
